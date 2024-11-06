@@ -3,7 +3,7 @@
   "type": "library",
   "license": "MIT",
   "require": {
-    "topthink/think-cache": "^2.0.6"
+    "ayhome/think-cache": "^2.0.9"
   },
   "autoload": {
     "psr-4": {
