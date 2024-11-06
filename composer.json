@@ -9,7 +9,7 @@
     }
   ],
   "require": {
-    "ayhome/think-cache": "^2.0.9"
+    "ayhome/think-cache": "^dev-2.0.9"
   },
   "autoload": {
     "psr-4": {
