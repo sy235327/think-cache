@@ -2,6 +2,12 @@
   "name": "webman/think-cache",
   "type": "library",
   "license": "MIT",
+  "repositories": [
+    {
+      "type": "package",
+      "url": "https://github.com/ayhome/think-cache"
+    }
+  ],
   "require": {
     "ayhome/think-cache": "^2.0.9"
   },
